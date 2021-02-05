@@ -1,0 +1,1 @@
+onclick="window.location.href='thank.html';"
